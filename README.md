@@ -52,7 +52,7 @@ Copy the repository URL (HTTPS or SSH), and run:
 bash
 Copy
 Edit
-git remote add origin https://github.com/your-username/your-repo-name.git
+git remote add origin https://github.com/De1shi123/test-py-repo.git
 ✅ 6. Push Your Code to GitHub
 bash
 Copy
